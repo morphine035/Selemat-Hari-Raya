@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     const left = document.querySelector('.left');
     const right = document.querySelector('.right');
-    const sectionAnass = document.getElementById('anass');
-    const sectionEssadikine = document.getElementById('essadikine');
+    const sectionAnass = document.getElementById('arifin');
+    const sectionEssadikine = document.getElementById('jehheng');
 
     left.addEventListener('click', () => {
         sectionAnass.classList.remove('hidden');
