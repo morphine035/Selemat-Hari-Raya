@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const footer = document.getElementById("credit");
     if (footer) {
-        footer.innerHTML = "Anass Essadikine";
+        footer.innerHTML = "Arifin";
         footer.href = "https://www.linkedin.com/in/anass-essadikine/";
     }
 });
